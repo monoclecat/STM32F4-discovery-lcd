@@ -1,0 +1,6 @@
+"src/main.o"
+"src/stm32f4xx_hal_msp.o"
+"src/stm32f4xx_it.o"
+"src/syscalls.o"
+"src/system_stm32f4xx.o"
+"startup/startup_stm32f429xx.o"
